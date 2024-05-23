@@ -10,4 +10,4 @@ RUN apt-get update
 
 RUN apt-get -y install curl
 
-CMD ./script.sh
+ENTRYPOINT ["./script.sh"]
