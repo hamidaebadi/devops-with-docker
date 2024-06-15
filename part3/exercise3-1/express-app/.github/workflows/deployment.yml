@@ -1,4 +1,4 @@
-name: Release DevOps with Docker # Name of the workflow
+name: Release Node.js app # Name of the workflow
 
 # On a push to the branch named master
 on:
